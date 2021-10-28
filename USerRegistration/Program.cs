@@ -10,6 +10,7 @@ namespace USerRegistration
             RegEx regEx = new RegEx();
             regEx.FirstName();
             regEx.LastName();
+            regEx.Email();
         }
     }
 }

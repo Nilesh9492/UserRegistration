@@ -40,5 +40,22 @@ namespace USerRegistration
                 Console.WriteLine("Last name should start with Cap and minimum 3 characters");
             }
         }
+        public void Email()
+        {
+            Console.WriteLine("Enter EMail :");
+            string email = Console.ReadLine();
+            string s = @"^[a-zA-Z]{3}([\- \+ _\.]*[a-zA-Z0-9]+)*@[a-zA-Z0-9]+\.[a-z]{2,3}(\.[a-zA-Z]{2,4}){0,1}$";
+            Regex exp = new Regex(s);
+            bool result = Regex.IsMatch(email, s);
+            if (result)
+            {
+                Console.WriteLine("Valid EMail");
+            }
+            else
+            {
+                Console.WriteLine("Invalid EMail");
+            }
+        }
     }
 }
+
