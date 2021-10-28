@@ -12,6 +12,7 @@ namespace USerRegistration
             regEx.LastName();
             regEx.Email();
             regEx.Mobile();
+            regEx.Password();
         }
     }
 }
