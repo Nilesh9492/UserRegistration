@@ -56,6 +56,23 @@ namespace USerRegistration
                 Console.WriteLine("Invalid EMail");
             }
         }
+        public void Mobile()
+        {
+            Console.WriteLine("Enter Mobile : ");
+            string number = Console.ReadLine();
+            string s = @"^[1-9]{2}[ ][0-9]{10}$";
+            Regex exp = new Regex(s);
+            bool result = Regex.IsMatch(number, s);
+            if (result)
+            {
+                Console.WriteLine("Valid Number");
+            }
+            else
+            {
+                Console.WriteLine("Invalid Number ");
+            }
+        }
     }
 }
+
 
