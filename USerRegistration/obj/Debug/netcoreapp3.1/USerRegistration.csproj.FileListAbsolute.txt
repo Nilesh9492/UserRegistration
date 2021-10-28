@@ -1,0 +1,14 @@
+E:\NILESH\C#\USerRegistration\USerRegistration\bin\Debug\netcoreapp3.1\USerRegistration.exe
+E:\NILESH\C#\USerRegistration\USerRegistration\bin\Debug\netcoreapp3.1\USerRegistration.deps.json
+E:\NILESH\C#\USerRegistration\USerRegistration\bin\Debug\netcoreapp3.1\USerRegistration.runtimeconfig.json
+E:\NILESH\C#\USerRegistration\USerRegistration\bin\Debug\netcoreapp3.1\USerRegistration.runtimeconfig.dev.json
+E:\NILESH\C#\USerRegistration\USerRegistration\bin\Debug\netcoreapp3.1\USerRegistration.dll
+E:\NILESH\C#\USerRegistration\USerRegistration\bin\Debug\netcoreapp3.1\USerRegistration.pdb
+E:\NILESH\C#\USerRegistration\USerRegistration\obj\Debug\netcoreapp3.1\USerRegistration.csproj.AssemblyReference.cache
+E:\NILESH\C#\USerRegistration\USerRegistration\obj\Debug\netcoreapp3.1\USerRegistration.GeneratedMSBuildEditorConfig.editorconfig
+E:\NILESH\C#\USerRegistration\USerRegistration\obj\Debug\netcoreapp3.1\USerRegistration.AssemblyInfoInputs.cache
+E:\NILESH\C#\USerRegistration\USerRegistration\obj\Debug\netcoreapp3.1\USerRegistration.AssemblyInfo.cs
+E:\NILESH\C#\USerRegistration\USerRegistration\obj\Debug\netcoreapp3.1\USerRegistration.csproj.CoreCompileInputs.cache
+E:\NILESH\C#\USerRegistration\USerRegistration\obj\Debug\netcoreapp3.1\USerRegistration.dll
+E:\NILESH\C#\USerRegistration\USerRegistration\obj\Debug\netcoreapp3.1\USerRegistration.pdb
+E:\NILESH\C#\USerRegistration\USerRegistration\obj\Debug\netcoreapp3.1\USerRegistration.genruntimeconfig.cache
