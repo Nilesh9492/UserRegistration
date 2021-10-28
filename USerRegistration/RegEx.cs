@@ -74,7 +74,7 @@ namespace USerRegistration
         }
         public void Password()
         {
-            string s = @"^[a-zA-Z0-9]{8,}$";
+            string s = @"^(.*[A-Z].*)[a-z0-9]{7,}$";
             Regex regex = new Regex(s);
             Console.WriteLine("Enter password :");
             string password = Console.ReadLine();
