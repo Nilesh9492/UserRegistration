@@ -37,7 +37,7 @@ namespace USerRegistration
             else
             {
                 Console.WriteLine("Invalid name");
-                Console.WriteLine("Last name starts with Cap and has minimum 3 characters");
+                Console.WriteLine("Last name should start with Cap and minimum 3 characters");
             }
         }
     }
