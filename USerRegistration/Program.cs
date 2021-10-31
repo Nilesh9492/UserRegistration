@@ -8,11 +8,7 @@ namespace USerRegistration
         {
             Console.WriteLine("User Registration Problem ");
             RegEx regEx = new RegEx();
-            regEx.FirstName();
-            regEx.LastName();
             regEx.Email();
-            regEx.Mobile();
-            regEx.Password();
         }
     }
 }
